@@ -1,4 +1,4 @@
-package org.com.app.mvnO;
+package org.com.app.mvnP;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
